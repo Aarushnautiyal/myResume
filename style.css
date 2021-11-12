@@ -81,7 +81,9 @@ h2{
 
 @media (max-width:850px) {
     .wrapper{
-        flex-direction: column;
+        flex-direction: column; 
+        margin: 1em;
+        padding: 2em;
     }
     .right ,.left{
         width: 100%;
